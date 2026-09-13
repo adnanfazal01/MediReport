@@ -1,0 +1,16 @@
+MEDICAL LABORATORY REPORT
+
+Patient Name: Test Patient
+Age: 25
+Gender: Male
+
+--------------------------------
+
+Hemoglobin: 14.2
+WBC: 7.5
+RBC: 5.2
+Platelets: 280
+Glucose: 180
+Cholesterol: 260
+Creatinine: 1.0
+Urea: 30
